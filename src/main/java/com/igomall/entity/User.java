@@ -25,7 +25,7 @@ import javax.validation.constraints.NotNull;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_user")
+@Table(name = "bootx_user")
 @Inheritance(strategy = InheritanceType.JOINED)
 public abstract class User extends BaseEntity<Long> {
 

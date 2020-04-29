@@ -20,7 +20,7 @@ import java.util.Set;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_permission")
+@Table(name = "bootx_permission")
 public class Permission extends OrderedEntity<Long> {
 
 	private static final long serialVersionUID = 5095521437302782717L;

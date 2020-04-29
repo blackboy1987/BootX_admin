@@ -20,7 +20,7 @@ import com.igomall.common.BaseAttributeConverter;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_member_attribute")
+@Table(name = "bootx_member_attribute")
 public class MemberAttribute extends OrderedEntity<Long> {
 
 	private static final long serialVersionUID = 4513705276569738136L;

@@ -27,7 +27,7 @@ import java.util.*;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_member")
+@Table(name = "bootx_member")
 public class Member extends User {
 
 	private static final long serialVersionUID = 1533130686714725835L;

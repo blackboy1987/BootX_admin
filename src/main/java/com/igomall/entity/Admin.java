@@ -25,7 +25,7 @@ import org.hibernate.validator.constraints.Length;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_admin")
+@Table(name = "bootx_admin")
 public class Admin extends User {
 
 	private static final long serialVersionUID = -4000007477538426L;

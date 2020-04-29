@@ -19,7 +19,7 @@ import com.fasterxml.jackson.annotation.JsonView;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_message")
+@Table(name = "bootx_message")
 public class Message extends BaseEntity<Long> {
 
 	private static final long serialVersionUID = -5035343536762850722L;

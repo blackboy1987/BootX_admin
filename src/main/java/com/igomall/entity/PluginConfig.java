@@ -17,7 +17,7 @@ import com.igomall.common.BaseAttributeConverter;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_plugin_config")
+@Table(name = "bootx_plugin_config")
 public class PluginConfig extends OrderedEntity<Long> {
 
 	private static final long serialVersionUID = -4357367409438384806L;

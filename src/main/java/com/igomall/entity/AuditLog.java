@@ -14,7 +14,7 @@ import com.igomall.common.BaseAttributeConverter;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_audit_log")
+@Table(name = "bootx_audit_log")
 public class AuditLog extends BaseEntity<Long> {
 
 	private static final long serialVersionUID = -4494144902110236826L;

@@ -20,7 +20,7 @@ import java.util.Set;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_member_rank")
+@Table(name = "bootx_member_rank")
 public class MemberRank extends BaseEntity<Long> {
 
 	private static final long serialVersionUID = 3599029355500655209L;

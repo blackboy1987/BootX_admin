@@ -12,7 +12,7 @@ import javax.persistence.Table;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_sn")
+@Table(name = "bootx_sn")
 public class Sn extends BaseEntity<Long> {
 
 	private static final long serialVersionUID = -2330598144835706164L;

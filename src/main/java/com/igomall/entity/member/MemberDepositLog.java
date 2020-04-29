@@ -15,7 +15,7 @@ import com.igomall.entity.BaseEntity;
  * @version 1.0
  */
 @Entity
-@Table(name = "edu_member_deposit_log")
+@Table(name = "bootx_member_deposit_log")
 public class MemberDepositLog extends BaseEntity<Long> {
 
 	private static final long serialVersionUID = -8323452873046981882L;
