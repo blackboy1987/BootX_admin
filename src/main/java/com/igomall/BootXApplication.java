@@ -10,10 +10,10 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableCaching
 @EnableAsync
 @EnableScheduling
-public class IgomallDemoApplication {
+public class BootXApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IgomallDemoApplication.class, args);
+        SpringApplication.run(BootXApplication.class, args);
     }
 
 }
